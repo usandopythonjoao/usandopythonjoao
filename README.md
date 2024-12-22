@@ -45,4 +45,27 @@ Sou apaixonado por tecnologia e educação, com foco em compartilhar conheciment
 
 ## 📊 Minhas Estatísticas no GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=u
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=usandopythonjoao&show_icons=true&theme=radical)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=usandopythonjoao&layout=compact&theme=radical)
+
+- **Total de Contribuições:** 365+  
+- **Sequência Atual:** 120 dias  
+- **Maior Sequência:** 150 dias  
+
+---
+
+## 🌐 Idiomas
+- **Português** (Fluente)  
+- **Inglês** (Fluente)  
+
+---
+
+## 📫 Entre em Contato
+- **E-mail**: [joaofutimuanda@example.com](mailto:joaofutimuanda@example.com)  
+- **Discord**: [Participe do meu servidor](https://discord.gg/9WGzkZW5)  
+- **LinkedIn**: [João Futi Muanda](https://www.linkedin.com/in/joao-futi-muanda-16b980175/)  
+
+---
+
+Obrigado por visitar meu perfil! 🚀  
+_Ajudo empresas e desenvolvedores a alcançarem seus objetivos através da tecnologia._
