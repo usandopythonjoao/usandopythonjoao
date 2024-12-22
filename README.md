@@ -48,7 +48,7 @@ Manter este projeto e criar conteúdos gratuitos exige tempo, esforço e recurso
    Você pode me ajudar diretamente com uma doação no [Buy Me a Coffee](https://www.buymeacoffee.com/usandopython).  
 
 2. **📖 Comprar um Ebook**  
-   Adquira um dos meus eBooks e contribua para a continuidade deste projeto: Escolha um valor abaixo para apoiar meu trabalho.  
+   Adquira meu eBook de Python para iniciantes, com exercícios e projetos, pagando o valor que você achar justo. Sua contribuição ajuda a manter este projeto. 
    - [R$ 5](https://www.buymeacoffee.com/usandopython/e/5)  
    - [R$ 10](https://www.buymeacoffee.com/usandopython/e/10)  
    - [R$ 15](https://www.buymeacoffee.com/usandopython/e/15)  
