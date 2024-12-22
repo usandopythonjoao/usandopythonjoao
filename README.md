@@ -37,12 +37,12 @@ Sou apaixonado por tecnologia e educação, com foco em compartilhar conheciment
 
 ## 📊 Minhas Estatísticas no GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=usandopythonjoao&show_icons=true&theme=radical)  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=usandopythonjoao&show_icons=true&theme=radical)
+
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=usandopythonjoao&layout=compact&theme=radical)
 
-- **Total de Contribuições:** 365+  
-- **Sequência Atual:** 120 dias  
-- **Maior Sequência:** 150 dias  
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=usandopythonjoao&theme=radical)
+  
 
 ---
 
