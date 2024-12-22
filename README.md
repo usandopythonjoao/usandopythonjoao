@@ -9,8 +9,8 @@ Sou apaixonado por tecnologia e educação, com foco em compartilhar conheciment
 ## 💼 Sobre Mim
 
 - 🌐 **Website**: [usandopy.com](https://www.usandopy.com)  
-- 🎥 **YouTube**: [Usando Python](https://www.youtube.com/@usandopython)  
-- 📸 **Instagram**: [@usandopython](https://www.instagram.com/usandopython/)  
+- 🎥 **YouTube**: [Usando Python](https://www.youtube.com/@usandopython) – **20k+ Inscritos**  
+- 📸 **Instagram**: [@usandopython](https://www.instagram.com/usandopython/) – **24k+ Seguidores**  
 - 💻 **GitHub**: [usandopythonjoao](https://github.com/usandopythonjoao)  
 - 📊 **LinkedIn**: [João Futi Muanda](https://www.linkedin.com/in/joao-futi-muanda-16b980175/)  
 
@@ -19,7 +19,8 @@ Sou apaixonado por tecnologia e educação, com foco em compartilhar conheciment
 ## 🌟 Minhas Conquistas
 
 - **Criador do site "Usando Python"**: Uma plataforma com tutoriais e conteúdos educativos para programadores.  
-- **Canal no YouTube com mais de 10k visualizações**: Focado em ensinar Python e tecnologias relacionadas.  
+- **Canal no YouTube com mais de 20k Inscritos**: Compartilhando conhecimento em Python e tecnologias relacionadas.  
+- **Página no Instagram com mais de 24k Seguidores**: Engajando com a comunidade de tecnologia e programação.  
 - **Consultor e desenvolvedor freelance**: Resolvo problemas com **Python**, **Django** e **análise de dados**.  
 
 ---
@@ -42,18 +43,6 @@ Sou apaixonado por tecnologia e educação, com foco em compartilhar conheciment
 
 ---
 
-## 🌐 Idiomas
-- **Português** (Fluente)  
-- **Inglês** (Fluente)  
+## 📊 Minhas Estatísticas no GitHub
 
----
-
-## 📫 Entre em Contato
-- **E-mail**: [joaofutimuanda@example.com](mailto:joaofutimuanda@example.com)  
-- **Discord**: [Participe do meu servidor](https://discord.gg/9WGzkZW5)  
-- **LinkedIn**: [João Futi Muanda](https://www.linkedin.com/in/joao-futi-muanda-16b980175/)  
-
----
-
-Obrigado por visitar meu perfil! 🚀  
-_Ajudo empresas e desenvolvedores a alcançarem seus objetivos através da tecnologia._
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=u
