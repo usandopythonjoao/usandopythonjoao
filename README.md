@@ -6,7 +6,7 @@ Sou um **Programador Python**, **Analista de Dados**, **Instrutor de Programaç�
 
 - **Criação de conteúdo técnico**: Produzo tutoriais e vídeos sobre **Python**, **análise de dados** e **desenvolvimento web** para iniciantes e profissionais.
 - **Desenvolvimento de software**: Crio **aplicações desktop**, **web apps** e **scripts Python** para automação e soluções práticas.
-- **Análise de dados**: Trabalho com **Python**, **pandas**, **numpy** e **matplotlib** para análise e visualização de dados.
+- **Análise de dados**: Trabalho com **Python**, **pandas**, **numpy**, **matplotlib** e **Power BI** para análise e visualização de dados.
 - **Mentoria e ensino**: Ajudo iniciantes a aprenderem programação e a entenderem conceitos essenciais para avançarem em suas jornadas de desenvolvimento.
 
 ## 🔧 Linguagens de Programação & Ferramentas
@@ -27,7 +27,7 @@ Sou um **Programador Python**, **Analista de Dados**, **Instrutor de Programaç�
 
 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |                                                              |                                                              |
+| ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white) |                                                              |
 
 ## 🌍 Minhas Conquistas
 
