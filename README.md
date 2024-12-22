@@ -29,24 +29,27 @@ Sou um **Programador Python**, **Analista de Dados**, **Instrutor de Programaç�
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |                                                              |                                                              |
 
-## 🌍 Oportunidades que procuro
+## 🌍 Minhas Conquistas
 
-- **Colaborações open-source**: Estou sempre interessado em contribuir para projetos open-source e colaborar com outros desenvolvedores.
-- **Projetos de Python**: Se você tem um projeto interessante em Python, especialmente em **análise de dados** ou **desenvolvimento web**, vamos conversar!
-- **Mentoria e ensino**: Estou sempre aberto a ajudar iniciantes em programação e desenvolver conteúdos educacionais.
-- **Consultoria**: Se você precisa de ajuda em projetos de desenvolvimento web ou análise de dados, estou disponível para consultorias.
+Aqui estão alguns marcos importantes da minha jornada:
+
+- 🌐 **Website "Usando Python"**: Criei e mantive o **[usandopy.com](https://www.usandopy.com)**, um blog com tutoriais e conteúdos sobre **Python**, **desenvolvimento web** e muito mais, com o objetivo de ajudar iniciantes e profissionais a aprenderem e evoluírem.
+- 🎥 **Canal no YouTube**: Meu canal **[Usando Python](https://www.youtube.com/@usandopython)**, onde compartilho tutoriais e dicas sobre **Python** e outras tecnologias. 
+- 📸 **Instagram**: Criei uma **página no Instagram** **[@usandopython](https://www.instagram.com/usandopython/)** para compartilhar conteúdos rápidos, motivação e dicas sobre programação.
+- 🏆 **Contribuições Open Source**: Colaborei com projetos open-source, criando soluções de código aberto para **Python** e **análise de dados**.
+- 💻 **Trabalhos Freelance e Consultorias**: Ofereci serviços como **consultor de Python** e desenvolvedor web, ajudando diversas empresas a implementarem soluções eficazes usando **Django** e **Flask**.
+
+## 🌱 O que estou aprendendo atualmente
+
+- **Programação Funcional** em **Python**
+- **Machine Learning** com **TensorFlow**
+- **Desenvolvimento de APIs RESTful** com **Django Rest Framework**
+- **DevOps** e **CI/CD** com **GitHub Actions** e **Docker**
 
 ## 🌐 Linguagens Faladas
 
 - **Português** (Fluente 🇧🇷)
 - **Inglês** (Fluente 🇬🇧)
-
-## 📚 Alguns dos meus projetos
-
-- **[Usando Python](https://www.usandopy.com)**: Meu blog onde compartilho tutoriais e artigos sobre **Python** e **desenvolvimento web**.
-- **[Criando Aplicações Desktop com Python](https://github.com/usandopythonjoao/desktop-apps)**: Repositório com exemplos de aplicativos de desktop criados com **Tkinter**.
-- **[Análise de Dados com Python](https://github.com/usandopythonjoao/data-analysis)**: Projetos relacionados à análise e visualização de dados usando **Pandas** e **Matplotlib**.
-- **[Criação de Sites com Django](https://github.com/usandopythonjoao/django-websites)**: Exemplos de websites criados com **Django**.
 
 ## 📈 Estatísticas de Contribuições
 
@@ -57,13 +60,6 @@ Sou um **Programador Python**, **Analista de Dados**, **Instrutor de Programaç�
 ### Sequência Atual e Maior Sequência
 
 ![Sequência Atual e Maior Sequência](https://github-readme-streak-stats.herokuapp.com/?user=usandopythonjoao&theme=radical)
-
-## 🌱 O que estou aprendendo atualmente
-
-- **Programação Funcional** em **Python**
-- **Machine Learning** com **TensorFlow**
-- **Desenvolvimento de APIs RESTful** com **Django Rest Framework**
-- **DevOps** e **CI/CD** com **GitHub Actions** e **Docker**
 
 ## 📫 Como entrar em contato
 
