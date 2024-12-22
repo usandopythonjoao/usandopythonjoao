@@ -42,6 +42,11 @@ Sou um **Programador Python**, **Analista de Dados**, **Instrutor de Programaç�
 - **Mentoria e ensino**: Estou sempre aberto a ajudar iniciantes em programação e desenvolver conteúdos educacionais.
 - **Consultoria**: Se você precisa de ajuda em projetos de desenvolvimento web ou análise de dados, estou disponível para consultorias.
 
+## 🌐 Linguagens Faladas
+
+- **Português** (Fluente 🇧🇷)
+- **Inglês** (Fluente 🇬🇧)
+
 ## 📚 Alguns dos meus projetos
 
 - **[Usando Python](https://www.usandopy.com)**: Meu blog onde compartilho tutoriais e artigos sobre **Python** e **desenvolvimento web**.
@@ -49,9 +54,15 @@ Sou um **Programador Python**, **Analista de Dados**, **Instrutor de Programaç�
 - **[Análise de Dados com Python](https://github.com/usandopythonjoao/data-analysis)**: Projetos relacionados à análise e visualização de dados usando **Pandas** e **Matplotlib**.
 - **[Criação de Sites com Django](https://github.com/usandopythonjoao/django-websites)**: Exemplos de websites criados com **Django**.
 
-## 📈 Estatísticas
+## 📈 Estatísticas de Contribuições
 
-![João Futi Muanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usandopythonjoao&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical)
+### Total de Contribuições
+
+![Total de Contribuições](https://github-readme-stats.vercel.app/api?username=usandopythonjoao&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical)
+
+### Sequência Atual e Maior Sequência
+
+![Sequência Atual e Maior Sequência](https://github-readme-streak-stats.herokuapp.com/?user=usandopythonjoao&theme=radical)
 
 ## 🌱 O que estou aprendendo atualmente
 
