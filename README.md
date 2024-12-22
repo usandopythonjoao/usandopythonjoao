@@ -57,8 +57,12 @@ Manter este projeto e criar conteúdos gratuitos exige tempo, esforço e recurso
    - [R$ 200](https://www.buymeacoffee.com/usandopython/e/200)  
    - [R$ 500](https://www.buymeacoffee.com/usandopython/e/500)    
 
-3. **🤝 Doações Diretas**  
-   Suas doações ajudam a pagar pelos serviços online utilizados no site e melhorar a qualidade do conteúdo.  
+3. **📬 Doação via Pix**  
+   Envie sua doação diretamente para meu e-mail: [joaofutimuanda@gmail.com](mailto:joaofutimuanda@gmail.com)  
+
+4. **💰 Bitcoin**  
+   Se preferir, pode contribuir via Bitcoin:  
+   **Endereço Bitcoin**: `1PFgw8gvCa6pxz9hXk8BSRKEgV6eDNJt83`
 
 > **Cada contribuição, por menor que seja, faz a diferença!** 🙌
 
