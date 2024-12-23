@@ -61,7 +61,7 @@ Manter este projeto e criar conteúdos gratuitos exige tempo, esforço e recurso
 ## 📩 Contato  
 
 - **Website**: [usandopy.com](https://www.usandopy.com)  
-- **E-mail**: [joao@usandopy.com](mailto:joao@usandopy.com)  
+- **E-mail**: [joaofutimuanda@gamil.com](mailto:joaofutimuanda@gamil.com)  
 - **Redes Sociais**:  
   [YouTube](https://www.youtube.com/@usandopython) | [Instagram](https://www.instagram.com/usandopython) | [LinkedIn](https://www.linkedin.com/in/joao-futi-muanda-16b980175/)  
 
