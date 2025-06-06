@@ -15,12 +15,6 @@ My mission is to share knowledge and help others learn programming in a practica
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usandopythonjoao&show_icons=true&theme=radical)  
-
----
-
 ## 🌐 Languages  
 - **Portuguese**: Fluent  
 - **English**: Fluent
