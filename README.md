@@ -1,14 +1,14 @@
 # 👋 João Futi Muanda
 
-I'm João Futi Muanda — a Python programmer, web developer, data analyst, and content creator.  
+I'm João Futi Muanda — a Python programmer, programming instructor, and content creator.  
 My mission is to share knowledge and help others learn programming in a practical and efficient way.
 
 ---
 
 ## ✨ Achievements  
 - **🌐 Website**: [Usando Python](https://www.usandopy.com)  
-- **📺 YouTube Channel**: Over **20k Subscribers** | [Visit Here](https://www.youtube.com/@usandopython)  
-- **📸 Instagram**: Over **24k Followers** | [Visit Here](https://www.instagram.com/usandopython)  
+- **📺 YouTube Channel**: Over **23k Subscribers** | [Visit Here](https://www.youtube.com/channel/UCMqGy4xIIGs01ZVcBv0B8Cw)  
+- **📸 Instagram**: Over **7k Followers** | [Visit Here](https://www.instagram.com/pybeginners)  
 - **📚 Ebooks Created**: 10+  
 - **💡 Continuous Progress**: Always striving to improve my skills and share more knowledge.
 
