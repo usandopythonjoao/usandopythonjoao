@@ -17,8 +17,6 @@ My mission is to share knowledge and help others learn programming in a practica
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usandopythonjoao&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usandopythonjoao&layout=compact&theme=radical)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=usandopythonjoao&theme=radical)
 
 ---
 
