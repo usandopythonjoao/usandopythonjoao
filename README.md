@@ -1,53 +1,57 @@
 # 👋 João Futi Muanda
 
-I'm João Futi Muanda — a Python programmer, programming instructor, and content creator.  
-My mission is to share knowledge and help others learn programming in a practical and efficient way.
+Sou João Futi Muanda — programador Python, instrutor de programação e criador de conteúdo.
+Minha missão é compartilhar conhecimento e ajudar outras pessoas a aprender programação de forma prática e eficiente.
 
 ---
 
-## ✨ Achievements  
-- **🌐 Website**: [Usando Python](https://www.usandopy.com)
-- **🌐 Website**: [Pybeginners](https://www.pybeginners.com)  
-- **📺 YouTube Channel**: Over **23k Subscribers** | [Visit Here](https://www.youtube.com/channel/UCMqGy4xIIGs01ZVcBv0B8Cw)  
-- **📸 Instagram**: Over **7k Followers** | [Visit Here](https://www.instagram.com/pybeginners)  
-- **📚 Ebooks Created**: 10+  
-- **💡 Continuous Progress**: Always striving to improve my skills and share more knowledge.
+## ✨ Conquistas
+
+* **🌐 Website**: [Usando Python](https://www.usandopy.com)
+* **🌐 Website**: [PyBeginners](https://www.pybeginners.com)
+* **📺 Canal no YouTube**: Mais de **25 mil inscritos** | [Visite aqui](https://www.youtube.com/channel/UCMqGy4xIIGs01ZVcBv0B8Cw)
+* **📸 Instagram**: Mais de **3 mil seguidores** | [Visite aqui](https://www.instagram.com/pybeginners)
+* **📚 E-books Criados**: 10+
+* **💡 Aprendizado Contínuo**: Sempre buscando aprimorar minhas habilidades e compartilhar mais conhecimento.
 
 ---
 
-## 🌐 Languages  
-- **Portuguese**: Fluent  
-- **English**: Fluent
+## 🌐 Idiomas
+
+* **Português**: Fluente
+* **Inglês**: Fluente
 
 ---
 
-## ☕ Support My Work  
+## ☕ Apoie Meu Trabalho
 
-Maintaining this project and creating free content takes time, effort, and resources. Your support is essential to keep everything running and up to date.
+Manter estes projetos e criar conteúdo gratuito exige tempo, dedicação e recursos. Seu apoio é essencial para manter tudo funcionando e atualizado.
 
-### 🌟 Ways to Support  
+### 🌟 Formas de Apoiar
 
-1. **💛 Buy Me a Coffee**  
-   You can support me directly by donating on [Buy Me a Coffee](https://www.buymeacoffee.com/usandopython).  
+1. **💛 Buy Me a Coffee**
+   Você pode me apoiar diretamente através do [Buy Me a Coffee](https://www.buymeacoffee.com/usandopython).
 
-2. **📬 Donate via Pix**  
-   Send your donation directly to my email: [joaofutimuanda@gmail.com](mailto:joaofutimuanda@gmail.com)  
+2. **📬 Doação via Pix**
+   Envie sua contribuição diretamente para o meu e-mail: [joaofutimuanda@gmail.com](mailto:joaofutimuanda@gmail.com)
 
-3. **💰 Bitcoin**  
-   If you prefer, you can contribute via Bitcoin:  
-   **Bitcoin Address**: `1PFgw8gvCa6pxz9hXk8BSRKEgV6eDNJt83`
+3. **💰 Bitcoin**
+   Se preferir, você também pode contribuir via Bitcoin:
+   **Endereço Bitcoin**: `1PFgw8gvCa6pxz9hXk8BSRKEgV6eDNJt83`
 
-> **Every contribution, no matter how small, makes a difference!** 🙌
-
----
-
-## 📩 Contact  
-
-- **Website**: [usandopy.com](https://www.usandopy.com)  
-- **Email**: [joaofutimuanda@gamil.com](mailto:joaofutimuanda@gamil.com)  
-- **Social Media**:  
-  [YouTube](https://www.youtube.com/@usandopython) | [Instagram](https://www.instagram.com/usandopython) | [LinkedIn](https://www.linkedin.com/in/joao-futi-muanda-16b980175/)
+> **Toda contribuição, por menor que seja, faz a diferença!** 🙌
 
 ---
 
-Thanks for visiting my profile! 💻🚀
+## 📩 Contato
+
+* **🌐 Website**: [usandopy.com](https://www.usandopy.com)
+* **📧 Email**: [joaofutimuanda@gmail.com](mailto:joaofutimuanda@gmail.com)
+* **🔗 Redes Sociais**:
+  [YouTube](https://www.youtube.com/@usandopython) | [Instagram](https://www.instagram.com/usandopy) | [LinkedIn](https://www.linkedin.com/in/joao-futi-muanda-16b980175/)
+
+---
+
+Obrigado por visitar meu perfil! 💻🚀
+
+⭐ Se você gosta dos meus projetos, considere deixar uma estrela nos repositórios e compartilhar o conhecimento com outras pessoas.
