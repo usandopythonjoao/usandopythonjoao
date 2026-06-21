@@ -71,6 +71,6 @@ Manter estes projetos e criar conteúdo gratuito exige tempo, dedicação e recu
 
 ---
 
-Obrigado por visitar meu perfil! 💻🚀
+Obrigado por visitar meu perfil! 
 
 ⭐ Se você gosta dos meus projetos, considere deixar uma estrela nos repositórios e compartilhar o conhecimento com outras pessoas.
